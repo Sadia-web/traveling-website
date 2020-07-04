@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.highlight{
+    color: #e70980;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 350px;
+    padding-bottom: 150px;
+}
+.country{
+    text-align: center;
+    color: crimson
+}
+h3{
+    color: navy;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.activity{
+    color:orangered;
+    text-align: center;
+}
+p{
+    color: dimgray;
+}
+.visited-place{
+    color:rgb(214, 8, 8);
+}
+.top-header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.travel-area{
+    background-image: url("images/travel-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.single-activity{
+    margin:40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color:white;
+}
+.activity-area{
+    background-image: url("images/activity-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 250px;
+
+}
+#maldives-activity{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#bali-activity{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    overflow: scroll;
+}
+#bhutan-activity{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, hotpink,red);
+    border-image-slice: 1;
+}
+#arob-activity{
+    border-left:7px solid;
+    border-image: linear-gradient(180deg, purple,yellow);
+    border-image-slice: 1;
+}
+.couple{
+    background-image: url("images/couple-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.love{
+    font-family:italic;
+    font-weight: 700;
+}
+.couple-width{
+    margin-top:120px;
+    text-align: center;
+}
+.time{
+    color: crimson;
+    margin-top: 180px;
+}
+.and{
+    text-align: center;
+    color: red;
+}
+#special{
+    color: red;
+}
+#special:hover{
+    color:darkmagenta;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+    color: rosybrown;
+}
+footer{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+.tea{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+figcaption{
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:cadetblue;
+    text-align: left;
+}
+
